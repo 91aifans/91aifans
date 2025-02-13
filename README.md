@@ -21,10 +21,9 @@
   - 🌟 发掘AI学习应用场景
 
 - 📫 找到我：
-  <details>
-  <summary>WeChat: fans_91ai</summary>
+  - WeChat: fans_91ai
+  <br/>
   <img src="./images/fans_91ai.jpg" width="300" alt="WeChat QR Code"/>
-  </details>
 - ⚡ 日常分享：
   - 💻 学生党AI工具优惠信息
   - 🔍 AI编程和学习技巧
